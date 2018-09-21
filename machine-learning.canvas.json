@@ -1,0 +1,61 @@
+[{
+  "title": "Decisions",
+	"col": 1,
+	"row": 1,
+	"size_x": 1,
+	"size_y": 2
+}, {
+  "title": "ML Task",
+	"col": 2,
+	"row": 1,
+	"size_x": 1,
+	"size_y": 2
+}, {
+  "title": "Features",
+	"col": 4,
+	"row": 3,
+	"size_x": 1,
+	"size_y": 2
+}, {
+  "title": "Collecting Data",
+	"col": 5,
+	"row": 1,
+	"size_x": 1,
+	"size_y": 2
+}, {
+  	"title": "Value Propositions",
+	"col": 3,
+	"row": 1,
+	"size_x": 1,
+	"size_y": 4
+}, {
+  "title": "Data Sources",
+	"col": 4,
+	"row": 1,
+	"size_x": 1,
+	"size_y": 2
+}, {
+  "title": "Live Evaluation & Monitoring",
+	"col": 2,
+	"row": 3,
+	"size_x": 1,
+	"size_y": 2
+}, {
+  "title": "Building Models",
+	"col": 5,
+	"row": 3,
+	"size_x": 1,
+	"size_y": 3
+}, {
+  "title": "Offline Evaluation",
+	"col": 2,
+	"row": 5,
+	"size_x": 3,
+	"size_y": 1
+}, {
+  "title": "Making Predictions",
+	"col": 1,
+	"row": 3,
+	"size_x": 1,
+	"size_y": 3
+}]
